@@ -8,6 +8,9 @@ Beyond just meal planning, **Open Book** offers a personalized and interactive e
 ### Unique Selling Point (USP):
 The unique appeal of "Open Book" lies in its holistic approach to meal planning and cooking, blending practical recipe discovery through ingredient searching with health-focused tools and a rich, community-driven experience. Unlike traditional recipe platforms, "Open Book" goes beyond offering recipes by integrating wellness tips, personalized calorie tracking, comforting meal options for homesick users, and specialized sections for single parents. Its seamless combination of relaxing music, food-related games, and a supportive community creates an interactive, engaging environment that distinguishes it from competitors.
 
+
+---
+
 ### 1. *Features*:
 
 - *Recipe Searching by Ingredients*: Users can input available ingredients to find recipes. Tags such as "easy to make," "common," and "health freak" allow users to filter recipes based on difficulty, ingredient availability, or health-conscious choices.
