@@ -1,4 +1,4 @@
-# Open-Book-Project
+# Open-Book-Project# (https://s-tuti.github.io/Open-Book-Project/)
 *Open Book* is a versatile, all-in-one platform designed to revolutionize the cooking experience. With a seamless user interface, it caters to a wide range of users by offering a comprehensive set of features across multiple sections. The homepage includes a tagline, testimonials, and key highlights, giving users an engaging introduction to the platform. 
 
 At its core, **Open Book** allows users to search for recipes by ingredients, explore trending dishes, and contribute their own recipes. The platform is tailored for diverse needs, with dedicated sections for health-conscious individuals, homesick users, and working or single parents. Health and wellness are central to its mission, with features like the "Small Medico" section, which provides helpline numbers, home remedies, and first aid tips, as well as a calorie counter and detailed recipe insights.
