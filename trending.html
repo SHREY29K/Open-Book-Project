@@ -12,7 +12,7 @@
         <div class="logo"><a href="index.html" ><img src="icon/icon.jpeg" alt="logo"></a></div>
         <ul>
             <li><a href="index.html">Home</a></li>
-            <li><a href="#trending-recipes">Trending Recipes</a></li>
+            <li><a href="index.html#services_section">Utility</a></li>
             <li><a href="community.html">Community</a></li>
             <li><a href="mapCompo.html">Map</a></li>
             <li><a href="help.html">Help</a></li>
@@ -24,33 +24,40 @@
         <h2>Welcome to our delicious corner of the internet! Discover the latest trending recipes and food vlogs that inspire your culinary adventures. Whether you’re a seasoned chef or just starting out, we have something for everyone. Dive in and explore!</h2>
     </header>
 
-    <section id="trending-recipes">
+    <section id="trending-recipes"></section>
         <h2></h2>
-        <div class="carousel">
-            <div class="carousel-item">
-                <a href="https://www.taste.com.au/recipes/hot-cross-tiramisu-recipe/abycpu6l?r=recipes/trendingrecipes&c=xpCH0GDZ/Trending%20recipes" target="Recipe 2">
-                    <img src="creator/tiramisu.jpg" alt="Recipe 1">
+        <div class="slideshow-container">
+            <div class="mySlides fade">
+                <a href="https://www.taste.com.au/recipes/hot-cross-tiramisu-recipe/abycpu6l?r=recipes/trendingrecipes&c=xpCH0GDZ/Trending%20recipes" target="_blank">
+                    <img src="creator/tiramisu.jpg" alt="Hot Cross Tiramisu">
                 </a>
-                <h1><b>Hot Cross Tiramisu</b></h1>
+                <h1><b><h1><b>Cross Tiramisu</b></h1></b></h1>
             </div>
-            <div class="carousel-item">
-                <a href="https://jessicainthekitchen.com/how-to-make-whipped-coffee-dalgona-coffee-tips/" target="Recipe 3">
-                    <img src="creator/Dalgona.jpg" alt="Recipe 2">
+            <div class="mySlides fade">
+                <a href="https://jessicainthekitchen.com/how-to-make-whipped-coffee-dalgona-coffee-tips/" target="_blank">
+                    <img src="creator/Dalgona.jpg" alt="Hot Dalgona Coffee">
                 </a>
-                <h1><b>Hot Dalgona Coffee</b></h1>
+                <h1></b><h1><b>Dalgona Coffee</b></h1></b></h1>
             </div>
-            <div class="carousel-item">
+            <div class="mySlides fade">
                 <a href="https://www.taste.com.au/recipes/polenta-chip-lasagne-recipe/np2ro3jh?r=recipes/trendingrecipes&c=xpCH0GDZ/Trending%20recipes" target="_blank">
-                    <img src="creator/tiramisu.jpg" alt="Recipe 3">
+                    <img src="creator/lasagne.jpg" alt="Polenta Chip Lasagne">
                 </a>
-                <h1><b>Polenta Chip Lasagne</b></h1>
+                <h1><b><h1><b>Polenta Chip Lasagne</b></h1></b></h1>
+                
             </div>
-            <div class="carousel-item">
-                <a href="https://www.example.com/recipe4" target="_blank">
-                    <img src="recipe4.jpg" alt="Recipe 4">
-                </a>
-                <h1><b>Recipe 4</b></h1>
-            </div>
+
+            <!-- Next and Previous buttons -->
+            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+            <a class="next" onclick="plusSlides(1)">&#10095;</a>
+        </div>
+        <br>
+
+        <!-- The dots/circles -->
+        <div style="text-align:center">
+            <span class="dot" onclick="currentSlide(1)"></span>
+            <span class="dot" onclick="currentSlide(2)"></span>
+            <span class="dot" onclick="currentSlide(3)"></span>
         </div>
     </section>
 
