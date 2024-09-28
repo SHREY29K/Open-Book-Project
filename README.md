@@ -26,7 +26,7 @@ The unique appeal of "Open Book" lies in its holistic approach to meal planning 
 
 ---
 
-### 3. *Funding Strategy*:
+### 2. *Funding Strategy*:
 
 - *Freemium Model*: Offer free access to basic features (recipe searching, trending recipes, user-generated recipes) while monetizing advanced features like the calorie counter, relaxing music playlists, chef consultations, and personalized nutrition plans.
   
@@ -41,3 +41,8 @@ The unique appeal of "Open Book" lies in its holistic approach to meal planning 
 - *Affiliate Marketing*: Recommend cooking products or kitchen gadgets via affiliate links, earning a commission for every sale made through the platform.
 
 By combining these strategies, "Open Book" can generate a steady revenue stream while maintaining a user-friendly and accessible platform.
+
+
+---
+
+### 3. *Presentation Ahead:* (https://docs.google.com/presentation/d/1CXALzcL2_E4vcHeXgJudQ0VRnxeFkbwK/edit?usp=drive_link&ouid=114593611137542893019&rtpof=true&sd=true)
