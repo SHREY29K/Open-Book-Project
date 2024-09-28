@@ -515,7 +515,7 @@ a, button {
 	transform: translateY(-10px);
 }
 
-/Contact Us Section/
+/*Contact Us Section*/
 .csec {
 	background: linear-gradient(to right, #f3e5e3, #c49a90);
 	background-attachment: fixed; 
@@ -613,7 +613,7 @@ form textarea {
 	justify-content: space-around;
 }
 .rev-container .rev-card {
-	/overflow: hidden;/
+	/*overflow: hidden;*/
 	width: 550px;
 	height: 240px;
 	margin-bottom: 40px;
